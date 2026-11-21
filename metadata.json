@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Tempahan Ruang & Peralatan",
+  "description": "Resource Booking System for campus rooms and equipment built with Next.js 15 App Router, Tailwind CSS v4, and Prisma v6.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
